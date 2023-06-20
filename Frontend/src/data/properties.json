@@ -1,37 +1,48 @@
 [{
     "Id": 1,
+    "SellRent":1,
     "Name": "SVK ",
     "Type": "House",
-    "Price": 3500       
+    "Price": 3500,
+    "Image":"prop-1"       
   },
   {
     "Id": 2,
+    "SellRent":2,
     "Name": "second",
     "Type": "House",
-    "Price": 1500        
+    "Price": 1500,
+    "Image":"prop-2"      
   },
   {
     "Id": 3,
+    "SellRent":1,
     "Name": "Third",
     "Type": "House",
-    "Price": 100
+    "Price": 100,
+    "Image":"prop-3"
   },
   {
     "Id": 4,
+    "SellRent":1,
     "Name": "Fourth",
     "Type": "House",
     "Price": 3500       
   },
   {
     "Id": 5,
+    "SellRent":1,
     "Name": "Fifth",
     "Type": "House",
-    "Price": 6500       
+    "Price": 6500,
+    "Image":"prop-4"       
   },
   {
     "Id": 6,
+    "SellRent":2,
     "Name": "Sixth",
     "Type": "House",
-    "Price": 6500       
+    "Price": 6500,
+    "Image":"prop-5"       
   }
 ]
